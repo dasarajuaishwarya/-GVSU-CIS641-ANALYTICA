@@ -1,4 +1,4 @@
-# Team Name
+# ANALYTICA
 
 Project description (~1 paragraph)
 
