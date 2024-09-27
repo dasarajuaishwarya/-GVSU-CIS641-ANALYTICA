@@ -10,7 +10,7 @@ The application is going to have a responsive and secure design that will make i
 
 # Anticipated Technologies
 
-1. Frontend : HTML, CSS, JavaScript, and React.js for building an interactive and responsive user interface.
+**1. Frontend :** HTML, CSS, JavaScript, and React.js for building an interactive and responsive user interface.
    
 2.  Backend : Node.js or Python with frameworks like Express or Flask/Django for server-side logic and API management.
 
